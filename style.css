@@ -1,0 +1,89 @@
+.text {
+	width : 900px;
+	font-family: 'CMU Serif'; 
+	font-style:  'Roman';  
+	font-size: 25px;
+	line-height: 1;
+	text-align: right;
+
+}
+
+
+.intro_end {
+	width : 1200px;
+	font-family: 'CMU Serif'; 
+	font-style:  'Roman';  
+	font-size: 60px;
+
+}
+
+.title {
+	font-family: "FATSOcaps";
+	font-size: 250px;
+	line-height: 1;
+	color: 	#00FFFF;
+	text-align: center;
+}
+
+.attribute {
+
+
+}
+
+.firstimage {
+float: right;
+}
+
+
+.homepage {
+	position: relative;
+	width: 1500px;
+	z-index: -1;
+
+}
+
+.websiteButton{
+	position: absolute;
+	top: 445px;
+	right:190px;
+	width: 630px;
+
+
+}
+
+.thesis {
+	position: relative;
+	top: 100px;
+	left: 0;
+	width: 500px;
+	margin: 10px;
+	transform: rotate(90deg);
+}
+
+.skin {
+	position: relative;
+	width: 200px;
+	margin: 10px;
+	transform: rotate(90deg);
+
+}
+
+
+.indexText {
+	position: relative;
+	font-family: "Van Dijk";
+	font-style: "Regular";
+	font-size: 40px;
+
+
+}
+
+.lagoon {
+	position: relative;
+	width: 400px;
+	margin: 10px;
+	
+
+}
+
+
