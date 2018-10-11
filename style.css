@@ -53,18 +53,18 @@ float: right;
 
 .thesis {
 	position: relative;
-	top: 100px;
+	top: 0;
 	left: 0;
 	width: 500px;
 	margin: 10px;
-	transform: rotate(90deg);
+
 }
 
 .skin {
 	position: relative;
-	width: 200px;
+	width: 500px;
 	margin: 10px;
-	transform: rotate(90deg);
+	
 
 }
 
